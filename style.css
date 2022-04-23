@@ -1,0 +1,27 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+p {
+  font-family: sans-serif;
+  color: #2e2e2e;
+  display: flex;
+  width: 200px;
+  text-align: center;
+  padding: 10px 50px;
+}
+
+img {
+  text-align: center;
+  padding: 0px 70px;
+  background-color: grey;
+}
+
+.first {
+  background-color: #fff3b8;
+}
+
+.second {
+  background-color: #feec90;
+}
